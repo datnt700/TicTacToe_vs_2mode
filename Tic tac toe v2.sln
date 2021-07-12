@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tic tac toe v2", "Tic tac toe v2\Tic tac toe v2.vcxproj", "{B4E26B76-C6DA-43BC-81FA-E943FF5DFF79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4E26B76-C6DA-43BC-81FA-E943FF5DFF79}.Debug|x64.ActiveCfg = Debug|x64
+		{B4E26B76-C6DA-43BC-81FA-E943FF5DFF79}.Debug|x64.Build.0 = Debug|x64
+		{B4E26B76-C6DA-43BC-81FA-E943FF5DFF79}.Debug|x86.ActiveCfg = Debug|Win32
+		{B4E26B76-C6DA-43BC-81FA-E943FF5DFF79}.Debug|x86.Build.0 = Debug|Win32
+		{B4E26B76-C6DA-43BC-81FA-E943FF5DFF79}.Release|x64.ActiveCfg = Release|x64
+		{B4E26B76-C6DA-43BC-81FA-E943FF5DFF79}.Release|x64.Build.0 = Release|x64
+		{B4E26B76-C6DA-43BC-81FA-E943FF5DFF79}.Release|x86.ActiveCfg = Release|Win32
+		{B4E26B76-C6DA-43BC-81FA-E943FF5DFF79}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91248AC1-CEDD-4D57-A383-45FA14A7E2B7}
+	EndGlobalSection
+EndGlobal
